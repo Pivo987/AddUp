@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B4E9EBB1FB23C630083B125 /* BeautyDemo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B4E9EBA1FB23C630083B125 /* BeautyDemo.ttf */; };
+		9B4E9EBD1FB23D250083B125 /* Sun Valley - Demo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B4E9EBC1FB23D250083B125 /* Sun Valley - Demo.ttf */; };
+		9B77DBA81F968B21004B36C6 /* numbers.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B77DBA71F968B21004B36C6 /* numbers.png */; };
+		9BE4A49C1FA1163B00817E27 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BE4A49B1FA1163B00817E27 /* background.png */; };
+		9BE4A4A61FA1285800817E27 /* launchScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BE4A4A51FA1285800817E27 /* launchScreen.png */; };
+		9BE4A4A81FA128F000817E27 /* logoAddUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BE4A4A71FA128F000817E27 /* logoAddUp.png */; };
+		9BE4A4B41FA12F9A00817E27 /* poubelle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BE4A4B31FA12F9A00817E27 /* poubelle.png */; };
+		9BE4A4B71FA1307600817E27 /* playNext.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BE4A4B51FA1307600817E27 /* playNext.png */; };
+		9BE4A4B81FA1307600817E27 /* playNextReversed.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BE4A4B61FA1307600817E27 /* playNextReversed.png */; };
 		9D355DC81D70946100D4D755 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D4DEC4F1D6DDE39001490B9 /* Main.storyboard */; };
 		9D4DEC4C1D6DDE39001490B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4DEC4B1D6DDE39001490B9 /* AppDelegate.swift */; };
 		9D4DEC4E1D6DDE39001490B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4DEC4D1D6DDE39001490B9 /* ViewController.swift */; };
@@ -14,10 +23,19 @@
 		9D4DEC561D6DDE39001490B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D4DEC541D6DDE39001490B9 /* LaunchScreen.storyboard */; };
 		9D741FF21D74BA260064B267 /* Singleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D741FF11D74BA260064B267 /* Singleton.swift */; };
 		9D7E0FCD1D75D67800D2ADFA /* TableController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7E0FCC1D75D67800D2ADFA /* TableController.swift */; };
-		9DC7199C1D77229C0063670B /* QuebecTaxes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DC7199B1D77229C0063670B /* QuebecTaxes.swift */; };
+		9DC7199C1D77229C0063670B /* MichiganTaxe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DC7199B1D77229C0063670B /* MichiganTaxe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B4E9EBA1FB23C630083B125 /* BeautyDemo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BeautyDemo.ttf; path = Fonts/BeautyDemo.ttf; sourceTree = "<group>"; };
+		9B4E9EBC1FB23D250083B125 /* Sun Valley - Demo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Sun Valley - Demo.ttf"; path = "Fonts/Sun Valley - Demo.ttf"; sourceTree = "<group>"; };
+		9B77DBA71F968B21004B36C6 /* numbers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = numbers.png; path = Images/buttons/numbers.png; sourceTree = "<group>"; };
+		9BE4A49B1FA1163B00817E27 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = Images/background/background.png; sourceTree = "<group>"; };
+		9BE4A4A51FA1285800817E27 /* launchScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launchScreen.png; path = Images/launchScreen/launchScreen.png; sourceTree = "<group>"; };
+		9BE4A4A71FA128F000817E27 /* logoAddUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logoAddUp.png; path = Images/logo/logoAddUp.png; sourceTree = "<group>"; };
+		9BE4A4B31FA12F9A00817E27 /* poubelle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = poubelle.png; path = Images/buttons/poubelle.png; sourceTree = "<group>"; };
+		9BE4A4B51FA1307600817E27 /* playNext.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = playNext.png; path = Images/buttons/playNext.png; sourceTree = "<group>"; };
+		9BE4A4B61FA1307600817E27 /* playNextReversed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = playNextReversed.png; path = Images/buttons/playNextReversed.png; sourceTree = "<group>"; };
 		9D4DEC481D6DDE38001490B9 /* AddUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AddUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D4DEC4B1D6DDE39001490B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D4DEC4D1D6DDE39001490B9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -27,7 +45,7 @@
 		9D4DEC571D6DDE39001490B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D741FF11D74BA260064B267 /* Singleton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Singleton.swift; sourceTree = "<group>"; };
 		9D7E0FCC1D75D67800D2ADFA /* TableController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableController.swift; sourceTree = "<group>"; };
-		9DC7199B1D77229C0063670B /* QuebecTaxes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuebecTaxes.swift; sourceTree = "<group>"; };
+		9DC7199B1D77229C0063670B /* MichiganTaxe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MichiganTaxe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +59,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9B537DD71F96A95500FAFD14 /* logo */ = {
+			isa = PBXGroup;
+			children = (
+				9BE4A4A71FA128F000817E27 /* logoAddUp.png */,
+			);
+			name = logo;
+			sourceTree = "<group>";
+		};
+		9B77DBA21F968928004B36C6 /* buttons */ = {
+			isa = PBXGroup;
+			children = (
+				9BE4A4B51FA1307600817E27 /* playNext.png */,
+				9BE4A4B61FA1307600817E27 /* playNextReversed.png */,
+				9BE4A4B31FA12F9A00817E27 /* poubelle.png */,
+				9B77DBA71F968B21004B36C6 /* numbers.png */,
+			);
+			name = buttons;
+			sourceTree = "<group>";
+		};
+		9BE4A4901F9FD52C00817E27 /* launchScreen */ = {
+			isa = PBXGroup;
+			children = (
+				9BE4A4A51FA1285800817E27 /* launchScreen.png */,
+			);
+			name = launchScreen;
+			sourceTree = "<group>";
+		};
+		9BE4A49A1FA1162500817E27 /* background */ = {
+			isa = PBXGroup;
+			children = (
+				9BE4A49B1FA1163B00817E27 /* background.png */,
+			);
+			name = background;
+			sourceTree = "<group>";
+		};
 		9D4DEC3F1D6DDE37001490B9 = {
 			isa = PBXGroup;
 			children = (
@@ -60,12 +113,12 @@
 		9D4DEC4A1D6DDE38001490B9 /* AddUp */ = {
 			isa = PBXGroup;
 			children = (
-				9DA1D6821D7621090084B01E /* Images */,
 				9DA1D6811D7620FA0084B01E /* Fonts */,
+				9DA1D6821D7621090084B01E /* Images */,
 				9D4DEC4B1D6DDE39001490B9 /* AppDelegate.swift */,
 				9D741FF11D74BA260064B267 /* Singleton.swift */,
 				9D4DEC4D1D6DDE39001490B9 /* ViewController.swift */,
-				9DC7199B1D77229C0063670B /* QuebecTaxes.swift */,
+				9DC7199B1D77229C0063670B /* MichiganTaxe.swift */,
 				9D7E0FCC1D75D67800D2ADFA /* TableController.swift */,
 				9D4DEC4F1D6DDE39001490B9 /* Main.storyboard */,
 				9D4DEC521D6DDE39001490B9 /* Assets.xcassets */,
@@ -78,6 +131,8 @@
 		9DA1D6811D7620FA0084B01E /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
+				9B4E9EBC1FB23D250083B125 /* Sun Valley - Demo.ttf */,
+				9B4E9EBA1FB23C630083B125 /* BeautyDemo.ttf */,
 			);
 			name = Fonts;
 			sourceTree = "<group>";
@@ -85,16 +140,12 @@
 		9DA1D6821D7621090084B01E /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				9DC593451D787D9C00D65655 /* icons */,
+				9BE4A49A1FA1162500817E27 /* background */,
+				9BE4A4901F9FD52C00817E27 /* launchScreen */,
+				9B537DD71F96A95500FAFD14 /* logo */,
+				9B77DBA21F968928004B36C6 /* buttons */,
 			);
 			name = Images;
-			sourceTree = "<group>";
-		};
-		9DC593451D787D9C00D65655 /* icons */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = icons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,9 +208,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BE4A4A61FA1285800817E27 /* launchScreen.png in Resources */,
 				9D4DEC561D6DDE39001490B9 /* LaunchScreen.storyboard in Resources */,
+				9BE4A4B41FA12F9A00817E27 /* poubelle.png in Resources */,
+				9B77DBA81F968B21004B36C6 /* numbers.png in Resources */,
 				9D355DC81D70946100D4D755 /* Main.storyboard in Resources */,
+				9BE4A4A81FA128F000817E27 /* logoAddUp.png in Resources */,
+				9B4E9EBD1FB23D250083B125 /* Sun Valley - Demo.ttf in Resources */,
 				9D4DEC531D6DDE39001490B9 /* Assets.xcassets in Resources */,
+				9BE4A4B81FA1307600817E27 /* playNextReversed.png in Resources */,
+				9BE4A4B71FA1307600817E27 /* playNext.png in Resources */,
+				9BE4A49C1FA1163B00817E27 /* background.png in Resources */,
+				9B4E9EBB1FB23C630083B125 /* BeautyDemo.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,7 +234,7 @@
 				9D4DEC4E1D6DDE39001490B9 /* ViewController.swift in Sources */,
 				9D741FF21D74BA260064B267 /* Singleton.swift in Sources */,
 				9D4DEC4C1D6DDE39001490B9 /* AppDelegate.swift in Sources */,
-				9DC7199C1D77229C0063670B /* QuebecTaxes.swift in Sources */,
+				9DC7199C1D77229C0063670B /* MichiganTaxe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
