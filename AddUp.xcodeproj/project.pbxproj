@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9B4E9EBB1FB23C630083B125 /* BeautyDemo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B4E9EBA1FB23C630083B125 /* BeautyDemo.ttf */; };
-		9B4E9EBD1FB23D250083B125 /* Sun Valley - Demo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B4E9EBC1FB23D250083B125 /* Sun Valley - Demo.ttf */; };
 		9B77DBA81F968B21004B36C6 /* numbers.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B77DBA71F968B21004B36C6 /* numbers.png */; };
 		9BE4A49C1FA1163B00817E27 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BE4A49B1FA1163B00817E27 /* background.png */; };
 		9BE4A4A61FA1285800817E27 /* launchScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BE4A4A51FA1285800817E27 /* launchScreen.png */; };
@@ -27,8 +25,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9B4E9EBA1FB23C630083B125 /* BeautyDemo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BeautyDemo.ttf; path = Fonts/BeautyDemo.ttf; sourceTree = "<group>"; };
-		9B4E9EBC1FB23D250083B125 /* Sun Valley - Demo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Sun Valley - Demo.ttf"; path = "Fonts/Sun Valley - Demo.ttf"; sourceTree = "<group>"; };
 		9B77DBA71F968B21004B36C6 /* numbers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = numbers.png; path = Images/buttons/numbers.png; sourceTree = "<group>"; };
 		9BE4A49B1FA1163B00817E27 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = Images/background/background.png; sourceTree = "<group>"; };
 		9BE4A4A51FA1285800817E27 /* launchScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launchScreen.png; path = Images/launchScreen/launchScreen.png; sourceTree = "<group>"; };
@@ -131,8 +127,6 @@
 		9DA1D6811D7620FA0084B01E /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				9B4E9EBC1FB23D250083B125 /* Sun Valley - Demo.ttf */,
-				9B4E9EBA1FB23C630083B125 /* BeautyDemo.ttf */,
 			);
 			name = Fonts;
 			sourceTree = "<group>";
@@ -214,12 +208,10 @@
 				9B77DBA81F968B21004B36C6 /* numbers.png in Resources */,
 				9D355DC81D70946100D4D755 /* Main.storyboard in Resources */,
 				9BE4A4A81FA128F000817E27 /* logoAddUp.png in Resources */,
-				9B4E9EBD1FB23D250083B125 /* Sun Valley - Demo.ttf in Resources */,
 				9D4DEC531D6DDE39001490B9 /* Assets.xcassets in Resources */,
 				9BE4A4B81FA1307600817E27 /* playNextReversed.png in Resources */,
 				9BE4A4B71FA1307600817E27 /* playNext.png in Resources */,
 				9BE4A49C1FA1163B00817E27 /* background.png in Resources */,
-				9B4E9EBB1FB23C630083B125 /* BeautyDemo.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
